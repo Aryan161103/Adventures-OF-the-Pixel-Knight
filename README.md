@@ -11,7 +11,5 @@ Objective:
 Develop a game that fosters cognitive skills, social interaction, and relaxation while providing an entertaining gameplay experience.
 
 Technologies:
-
 Unity 2D
 C#
-
