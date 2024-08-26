@@ -1,5 +1,6 @@
 # Adventures-OF-the-Pixel-Knight
 This project is an action-adventure platformer game featuring a knight protagonist. The game integrates parkour mechanics, treasure collection, and combat encounters to deliver an engaging experience. Players navigate diverse environments using advanced parkour techniques, collect coins and chests to unlock upgrades, and face various enemies in strategic combat. The game aims to enhance cognitive skills, encourage exploration, and provide relaxation and enjoyment.
+To run the Project extract both build files into the same file and run the projectto file.
 
 Key Features:
 Advanced parkour mechanics for fluid movement.
